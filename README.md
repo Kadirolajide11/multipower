@@ -5,3 +5,4 @@ This Project is a practice project which eases the stress of the customers.
 By logging in to the multipower app to purchase batteries, solars and inverters from the comfort of your home.
 
 it is also synchronized with engineers, electricians which you could call or chat from the app about any of the elecrical devices you purchase from the company.
+![Uploading 1.png…]()
